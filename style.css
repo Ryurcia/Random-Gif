@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@700&display=swap');
+
+#current-word {
+    font-family: Arimo,sans-serif;
+    text-transform: uppercase;
+}
+
+#word {
+    padding: 5px;
+    font-family: Arimo,sans-serif;
+    text-transform: uppercase;
+}
+
+button {
+    padding: 3px 10px;
+    border: none;
+    background-color: #65b5eb;
+}
+
+img {
+    border: 5px solid #000000
+}
